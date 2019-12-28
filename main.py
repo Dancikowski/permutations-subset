@@ -4,7 +4,7 @@
 
 """HELLO CLI
 Usage:
-  rank.py --vertex=VERTEX --k=<k> --n=<n> --nextPos=<nextPos>
+  main.py --vertex=VERTEX --k=<k> --n=<n> --nextPos=<nextPos>
 
 Options:
   -h --help            show this help message and exit
