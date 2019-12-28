@@ -4,7 +4,9 @@ The main idea of the project is to return successor or predecessor of given comb
 ## How to start
 Install `docopt` library via `pip` 
 
-```pip install docopt==0.6.2```
+```console
+pip install docopt==0.6.2
+```
 
 Then simply run `main.py` file according to the following parameters:
  * --vertex=VERTEX      Comma separated list of numbers
@@ -14,7 +16,9 @@ Then simply run `main.py` file according to the following parameters:
  
  And so sample call looks like
  
- ``` python main.py --vertex=1,2,3 --k=3 --n=4 --nextPos=1```
+ ```console
+  python main.py --vertex=1,2,3 --k=3 --n=4 --nextPos=1
+```
 
 ## Resources
 [Generating Elementary Combinatorial Objects](https://www.site.uottawa.ca/~lucia/courses/5165-09/GenCombObj.pdf)
